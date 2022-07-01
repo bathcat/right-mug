@@ -4,11 +4,16 @@
 
 ## Game Plan
 1. Housekeeping
+  - Next session: July 6
   - New stuff
     * Repo: https://github.com/bathcat/right-mug
 	* Whiteboard
   - Thoughts on agile flame
     * Git user stories
+	* Daily stand-up
+	* Branches and tasks
+	
+1.1 Thanks and Kudos
 
 2. Review Quiz (Agile)
 
