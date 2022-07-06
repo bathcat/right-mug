@@ -1,2 +1,3 @@
-# right-mug
+# Right Mug
+
 Materials and exercises.
