@@ -59,12 +59,20 @@
 
 7. What's a commit?
 - Save of progress
-- 
+- Moves changes from staging to local repository
+- Involves a message.
+  o e.g. Fixing off-by-1 error
+  o e.g. Add unit test
+  
+3. What's the command to view the history of a repository?
+`git log`
+
+10. How to you get a list of commands?
+
+`git --help'`
+4. How do you throw away your local changes?
 
 1. What's the deal with git's staging area?
-3. What's the command to view the history of a repository?
-4. How do you throw away your local changes?
 5. What's a pull request?
 6. What's a branch?
 8. How long does git keep a repo's history?
-
