@@ -68,11 +68,33 @@
 `git log`
 
 10. How to you get a list of commands?
+`git --help`
 
-`git --help'`
 4. How do you throw away your local changes?
+`git reset --hard`
+
+
+6. What's a branch?
+* A copy of *some* line of development
+  - Like a draft
+* Reccomendation:
+  - Do all of your work in some feature branch.
+  - Branch for:
+    o Experimennt
+	o Bug fix
+	o Enhancement
+
+5. What's a pull request?
+* How a feature branch gets merged into main
+* Github / Microsoft tools / Atlassian tools
+* Checks and balances
+
 
 1. What's the deal with git's staging area?
-5. What's a pull request?
-6. What's a branch?
+* Limbo between local workspace and repo
+* Sets the table before a merge
+* Text in green
+
 8. How long does git keep a repo's history?
+* Forever
+
