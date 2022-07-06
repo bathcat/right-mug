@@ -1,15 +1,22 @@
 # Day 2: Git
-
 ## Start @ 900
 
 ## Agenda
 1. Housekeeping
-  - Nag: [Survey](https://www.surveymonkey.com/r/TSHZXK2)
+  - Nags: 
+    o Upcoming [Survey](https://www.surveymonkey.com/r/TSHZXK2)
+	o Github account
+  - Links
+    o https://matt-rickard.com/what-comes-after-git/
+    o https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
+    o https://codewords.recurse.com/issues/two/git-from-the-inside-out
   - Follow-ups
 2. Review
 3. Branching and Merging (Cont)
 4. Remotes
 5. Tips 'n' Tricks
+
+
 
 ## Follow-ups
 1. What's [`git checkout`](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
@@ -24,6 +31,8 @@
 * Additonal security 
   - Bad guy with ssh key can't delete your repo
 * My own personal takeaway: Github forces 2FA anyways
+
+
 
 ## Review
 1. What's the deal with git's staging area?
