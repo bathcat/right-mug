@@ -27,21 +27,44 @@
 > commits, and branches.
 
 2. What's the deal with SSH v HTTPS?
+* Similarities
+  - Transport-level security
 * Setup hassle 
 * Additonal security 
   - Bad guy with ssh key can't delete your repo
 * My own personal takeaway: Github forces 2FA anyways
+  - 
 
 
 
 ## Review
-1. What's the deal with git's staging area?
+9. How do you cycle through your terminal history?
+* History: Up and down arrows
+* Tab: complete things - file paths, commands
+
 2. What's the difference between **git** and **gihub**?
+* Github is cloud-based
+  - allows sharing, editing, etc.
+* Git is a tool 
+  - involves local storage
+* analogy
+  - git -> email
+  - github -> gmail
+* github 
+  - owned by msft
+  - big - open source projects 
+  - adds extra stuff
+    o hosting static sites
+	o pull requests
+
+7. What's a commit?
+- Save of progress
+- 
+
+1. What's the deal with git's staging area?
 3. What's the command to view the history of a repository?
 4. How do you throw away your local changes?
 5. What's a pull request?
 6. What's a branch?
-7. What's a commit?
 8. How long does git keep a repo's history?
-9. How do you cycle through your terminal history?
 
